@@ -1,1 +1,1 @@
-# Python_Amazon_Sales_Analysis
+Analyze amazon sales data to check the buyers preffered choice in the sales
